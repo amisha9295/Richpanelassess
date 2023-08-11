@@ -7,7 +7,7 @@ Imagine a product like Amazon Prime - They have lots of users and they need to p
 subscriptions(monthly/yearly) for their customers.
 So, Let’s build a subscription based billing module for a software product using HTML/CSS
 
-<img width="394" alt="image" src="">
+<img width="394" alt="image" src="https://github.com/amisha9295/Richpanelassess/blob/main/258642432-91ec11da-0a24-4441-9874-36e7b09ee58a.png">
 
 Please find the link to the website here:
 
